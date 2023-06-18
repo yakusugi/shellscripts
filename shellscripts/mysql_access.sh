@@ -2,9 +2,9 @@
 
 # MySQL credentials
 DB_HOST="localhost"
-DB_USER="johnito"
-DB_PASS="RootUnity0216#@!"
-DB_NAME="budget_tracker_db"
+DB_USER="user_name"
+DB_PASS="password"
+DB_NAME="db_name"
 
 # SQL query to execute
 SQL_QUERY="SELECT * FROM login_tbl"
